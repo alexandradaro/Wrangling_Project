@@ -69,5 +69,5 @@ In this section, using the cleaned dataset, I was able to analyze and visualize 
 ## Conclusion
 Data wrangling this dataset was fun. Data wrangling is a skill that is needed since so much of the world's data isn't clean. Wrangling the dataset prevented me from making mistakes and missing out on important insights.
 
-References
-I had to refernce stackoverflow for some help whenever I was stuck. For the wordcloud, I referenced www.datacamp.com/tutorial/wordcloud-python as well as www.analyticsvidhya.com/blog/2021/08/creating-customized-word-cloud-in-python/
+#### References 
+I had to reference stackoverflow for some help whenever I was stuck. For the wordcloud, I referenced www.datacamp.com/tutorial/wordcloud-python as well as www.analyticsvidhya.com/blog/2021/08/creating-customized-word-cloud-in-python/
